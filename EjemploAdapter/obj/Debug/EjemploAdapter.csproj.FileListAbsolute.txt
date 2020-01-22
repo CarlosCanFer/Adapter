@@ -1,0 +1,13 @@
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\bin\Debug\EjemploAdapter.exe.config
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\bin\Debug\EjemploAdapter.exe
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\bin\Debug\EjemploAdapter.pdb
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\obj\Debug\EjemploAdapter.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\obj\Debug\EjemploAdapter.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\obj\Debug\EjemploAdapter.exe
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\obj\Debug\EjemploAdapter.pdb
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\obj\Debug\EjemploAdapter.csproj.CopyComplete
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\bin\Debug\AWSSDK.Core.dll
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\bin\Debug\AWSSDK.Core.pdb
+C:\Users\carlos.can\source\repos\EjemploAdapter\EjemploAdapter\bin\Debug\AWSSDK.Core.xml
